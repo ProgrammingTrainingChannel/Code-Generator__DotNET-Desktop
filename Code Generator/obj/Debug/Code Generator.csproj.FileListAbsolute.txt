@@ -1,0 +1,29 @@
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\bin\Debug\Code Generator.exe.config
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\bin\Debug\Code Generator.exe
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\bin\Debug\Code Generator.pdb
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code Generator.csprojResolveAssemblyReference.cache
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code_Generator.frmGenerator.resources
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.Cache
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code Generator.exe
+c:\users\abiy\documents\visual studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code Generator.pdb
+C:\Users\abiy\Documents\Visual Studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code_Generator.frmInformation.resources
+C:\Users\abiy\Documents\Visual Studio 2015\Projects\Code Generator\Code Generator\obj\Debug\Code_Generator.frmGenerate2.resources
+E:\BT IT Solutions\Code Generator\Code Generator\bin\Debug\Code Generator.exe.config
+E:\BT IT Solutions\Code Generator\Code Generator\bin\Debug\Code Generator.exe
+E:\BT IT Solutions\Code Generator\Code Generator\bin\Debug\Code Generator.pdb
+E:\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code_Generator.frmInformation.resources
+E:\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+E:\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.Cache
+E:\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.exe
+E:\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.pdb
+E:\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.csprojResolveAssemblyReference.cache
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\bin\Debug\Code Generator.exe.config
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\bin\Debug\Code Generator.exe
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\bin\Debug\Code Generator.pdb
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code_Generator.frmInformation.resources
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code_Generator.Properties.Resources.resources
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.csproj.GenerateResource.Cache
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.exe
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.pdb
+D:\Projects\BT IT Solutions\Code Generator\Code Generator\obj\Debug\Code Generator.csprojResolveAssemblyReference.cache
